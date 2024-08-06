@@ -2,6 +2,8 @@
 
 <h2>Description</h2>
 
+- <b>Builds upon the first iteration of the project</b>
+
 <h3>Version 2.0 Functionality Improvements</h3>
 
 - <b>Fixed a bug where some ticker entries would try to scrape data from the tokenised stock. This is done through the use of a custom Google search engine to filter the top result from Wallmine.com</b>
